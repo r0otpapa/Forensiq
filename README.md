@@ -8,6 +8,7 @@
 Forensiq is a powerful digital forensic toolkit designed to extract system, user, network, and application-level artifacts from **both Windows and Linux systems**. It generates a detailed, dark-themed HTML report and can optionally compress outputs and send them via Telegram.
 
 ---
+<img width="1012" height="483" alt="Screenshot 2025-07-14 185034" src="https://github.com/user-attachments/assets/c3aa32ea-b76d-42d1-a0bd-8e046ca9635e" />
 
 ## 🧩 Key Features
 
