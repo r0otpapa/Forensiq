@@ -31,6 +31,7 @@ Forensiq (Windows) is a full-featured forensic toolkit that automates collection
 - 📦 HTML Report + Telegram Delivery
 
 ---
+![Screenshot_14-7-2025_192318_127 0 0 1](https://github.com/user-attachments/assets/b31249f7-9812-4f4f-a497-beb9aa935c81)
 
 ## ⚙️ Requirements
 
