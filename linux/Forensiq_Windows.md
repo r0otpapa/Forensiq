@@ -67,8 +67,8 @@ forensiq_report_<date>.zip
 Clone the repository and run the script:
 
 ```bash
-git clone https://github.com/TarunSharmaX/Forensiq
-cd Forensiq
+git clone https://github.com/DeadpooHackes/Forensiq.git
+cd Forensiq/linux
 chmod +x forensiq.sh
 sudo ./forensiq.sh
 ```
