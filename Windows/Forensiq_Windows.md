@@ -1,13 +1,16 @@
+# 🛡️ Forensiq - Advanced Forensic Intelligence Toolkit (Windows Edition)
+
+**Created by**: Tarun Sharma  
+**Version**: Windows Edition  
+**License**: MIT  
+**Status**: ✅ Active  
+**Platform**: Windows 11 (Tested on Windows 10)
+
 ---
 
-### ✅ `README.windows.md` — **Windows-Only Version**
+## 🚀 Overview
 
-```markdown
-# 🛡️ Forensiq (Windows Edition)
-
-**Created by Tarun Sharma**
-
-Forensiq (Windows) is a full-featured forensic toolkit that automates collection of critical forensic artifacts from a target Windows system. It includes deep system introspection, browser analysis, registry forensics, and real-time activity monitoring.
+**Forensiq** is a powerful all-in-one Windows forensic investigation and incident response toolkit. Designed for cybersecurity professionals, it collects a wide range of data for digital investigations and generates an interactive HTML report.
 
 ---
 
