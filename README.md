@@ -1,6 +1,9 @@
 # 🕵️ Forensiq - Cross-Platform Forensic Investigation Tool
 
 **Created by Tarun Sharma**
+Platform: Windows 🪟 | Linux 🐧
+Version: 1.0.0
+License: MIT
 
 Forensiq is a powerful digital forensic toolkit designed to extract system, user, network, and application-level artifacts from **both Windows and Linux systems**. It generates a detailed, dark-themed HTML report and can optionally compress outputs and send them via Telegram.
 
