@@ -1,0 +1,14 @@
+psutil
+flask
+flask_socketio
+jinja2
+requests
+py-cpuinfo
+pyTelegramBotAPI
+netifaces
+colorama
+pywin32; platform_system == "Windows"
+wmi; platform_system == "Windows"
+pyautogui
+pygetwindow
+browser-history
