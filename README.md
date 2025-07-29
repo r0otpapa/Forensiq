@@ -68,3 +68,15 @@ Forensiq is a powerful digital forensic toolkit designed to extract system, user
 ### Install Dependencies:
 ```bash
 pip install -r requirements.txt
+
+```
+## ⚠️ Disclaimer
+
+This tool is for **educational and authorized forensic use only**. Use it responsibly. The author is not liable for misuse.
+
+---
+
+## 👨‍💻 Created By
+
+**Tarun Sharma**  
+For any questions, contributions, or improvements — feel free to reach out!
