@@ -147,7 +147,7 @@ for f in "$OUTPUT_DIR"/*.txt; do
 done
 
 echo "<footer>
-    <p>🔗 View Source on <a href='https://github.com/DeadpooHackes/Forensiq' target='_blank' style='color:#66fcf1;'>GitHub</a></p>
+    <p>🔗 View Source on <a href='https://github.com/r0otpapa/Forensiq' target='_blank' style='color:#66fcf1;'>GitHub</a></p>
      <p>© 2025 Forensiq by Tarun Sharma</p>
 </footer></div></body></html>" >> "$HTML_REPORT"
 
