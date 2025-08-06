@@ -583,7 +583,7 @@ function collapseAll() {
 <!-- GitHub Footer Start -->
 <footer style="text-align: center; padding: 20px; font-size: 14px; color: #ddd; background-color: #0a1a2f;">
   🔗 View Source on 
-  <a href="https://github.com/DeadpooHackes/Forensiq" target="_blank" style="color: #4da6ff; text-decoration: none;">
+  <a href="https://github.com/r0otpapa/Forensiq" target="_blank" style="color: #4da6ff; text-decoration: none;">
     GitHub
   </a>
   <br>
@@ -658,3 +658,4 @@ def run_all():
 
 if __name__ == "__main__":
     run_all()
+
